@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{ --bg:#0a0f0d; --panel:#0e1412; --line:#1b2723; --text:#e8f1ef; --muted:#8aa0a2; --green:#00ff84; --green2:#35f58c; }
+html,body{height:100%}
+body{ background: radial-gradient(700px 300px at 15% 0%, rgba(0,255,132,.14), transparent 60%), var(--bg); color: var(--text); }
+.neon-btn{ font-weight:700; border-radius:12px; padding:.5rem 1rem; background:linear-gradient(180deg,var(--green),var(--green2)); color:#062316; box-shadow:0 0 30px rgba(0,255,132,.25) }
+.btn-ghost{ border-radius:12px; padding:.5rem 1rem; border:1px solid var(--line); background:#0b120f }
+.card{ background:linear-gradient(180deg,#0e1512,#0a100e); border:1px solid var(--line); border-radius:16px }
+.topbar{ backdrop-filter: blur(8px); background:rgba(10,15,13,.7); border-bottom:1px solid var(--line) }

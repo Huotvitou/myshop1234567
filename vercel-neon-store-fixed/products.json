@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Steam Key \u2013 GTA V",
+    "price": 25,
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1200&auto=format&fit=crop",
+    "tag": "Steam"
+  },
+  {
+    "id": 2,
+    "name": "Steam Key \u2013 RDR2",
+    "price": 30,
+    "image": "https://images.unsplash.com/photo-1542751110-97427bbecf20?q=80&w=1200&auto=format&fit=crop",
+    "tag": "Steam"
+  },
+  {
+    "id": 3,
+    "name": "Cyberpunk DLC \u2013 Phantom Liberty",
+    "price": 20,
+    "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8b?q=80&w=1200&auto=format&fit=crop",
+    "tag": "DLC"
+  },
+  {
+    "id": 4,
+    "name": "Steam Wallet $10",
+    "price": 9.5,
+    "image": "https://images.unsplash.com/photo-1554224155-1696413565d3?q=80&w=1200&auto=format&fit=crop",
+    "tag": "Wallet"
+  },
+  {
+    "id": 5,
+    "name": "Steam Wallet $50",
+    "price": 47,
+    "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?q=80&w=1200&auto=format&fit=crop",
+    "tag": "Wallet"
+  },
+  {
+    "id": 6,
+    "name": "Xbox Gift Card $25",
+    "price": 24,
+    "image": "https://images.unsplash.com/photo-1618761714954-0b8cd0026356?q=80&w=1200&auto=format&fit=crop",
+    "tag": "Gift Card"
+  },
+  {
+    "id": 7,
+    "name": "PlayStation Card $50",
+    "price": 46,
+    "image": "https://images.unsplash.com/photo-1605901309584-d43e29a73a00?q=80&w=1200&auto=format&fit=crop",
+    "tag": "Gift Card"
+  },
+  {
+    "id": 8,
+    "name": "Nintendo eShop $20",
+    "price": 19,
+    "image": "https://images.unsplash.com/photo-1621259182978-31955258b729?q=80&w=1200&auto=format&fit=crop",
+    "tag": "Gift Card"
+  },
+  {
+    "id": 9,
+    "name": "Xbox Game Pass \u2013 1 Month",
+    "price": 10,
+    "image": "https://images.unsplash.com/photo-1558655146-d09347e92766?q=80&w=1200&auto=format&fit=crop",
+    "tag": "Subscription"
+  },
+  {
+    "id": 10,
+    "name": "EA Play \u2013 12 Months",
+    "price": 30,
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1200&auto=format&fit=crop",
+    "tag": "Subscription"
+  },
+  {
+    "id": 11,
+    "name": "Windows 11 Pro Key",
+    "price": 12,
+    "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?q=80&w=1200&auto=format&fit=crop",
+    "tag": "Software"
+  },
+  {
+    "id": 12,
+    "name": "Microsoft Office 2021",
+    "price": 20,
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop",
+    "tag": "Software"
+  },
+  {
+    "id": 13,
+    "name": "Adobe Photoshop \u2013 1 Year",
+    "price": 45,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1200&auto=format&fit=crop",
+    "tag": "Software"
+  },
+  {
+    "id": 14,
+    "name": "Riot Points 1380",
+    "price": 10,
+    "image": "https://images.unsplash.com/photo-1612981887489-3f9b3260f2b4?q=80&w=1200&auto=format&fit=crop",
+    "tag": "Gift Card"
+  },
+  {
+    "id": 15,
+    "name": "Blizzard Balance $20",
+    "price": 18.5,
+    "image": "https://images.unsplash.com/photo-1554941829-202a0b2403b2?q=80&w=1200&auto=format&fit=crop",
+    "tag": "Gift Card"
+  },
+  {
+    "id": 16,
+    "name": "Epic Games Card $25",
+    "price": 24,
+    "image": "https://images.unsplash.com/photo-1605901309573-46b9df64b21a?q=80&w=1200&auto=format&fit=crop",
+    "tag": "Gift Card"
+  },
+  {
+    "id": 17,
+    "name": "Netflix Premium \u2013 1 Month",
+    "price": 8,
+    "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?q=80&w=1200&auto=format&fit=crop",
+    "tag": "Subscription"
+  },
+  {
+    "id": 18,
+    "name": "Spotify Premium \u2013 1 Month",
+    "price": 5,
+    "image": "https://images.unsplash.com/photo-1611339555312-e607c8352fd7?q=80&w=1200&auto=format&fit=crop",
+    "tag": "Subscription"
+  },
+  {
+    "id": 19,
+    "name": "Ubisoft Key \u2013 Assassin\u2019s Creed",
+    "price": 19,
+    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?q=80&w=1200&auto=format&fit=crop",
+    "tag": "Steam"
+  },
+  {
+    "id": 20,
+    "name": "Origin Key \u2013 Battlefield V",
+    "price": 16,
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=1200&auto=format&fit=crop",
+    "tag": "Steam"
+  }
+]
